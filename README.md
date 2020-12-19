@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+- 🏊‍ My name is Gabriel Lee.
 - 🌱 I’m currently learning Full Stack Web Development (MERN), Golang
-- 📫 How to reach me: hello@gabrielleeyj.com
+- 📫 You can reach me at : hello@gabrielleeyj.com
+- 🌐 My Blog : https://gabrielleeyj.com
 
 <!--
 **gabrielleeyj/gabrielleeyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
