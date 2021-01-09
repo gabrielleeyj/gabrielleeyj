@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🏊‍ My name is Gabriel Lee.
+- 👨‍💻 FullStack Developer at [Security Risk](https://securityrisk.com/).
 - 🌱 I’m currently learning Full Stack Web Development (MERN), Golang
 - 📫 You can reach me at : hello@gabrielleeyj.com
 - 🌐 My Blog : https://gabrielleeyj.com
