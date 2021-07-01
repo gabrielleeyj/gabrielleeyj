@@ -1,5 +1,5 @@
 ### Hi there I am [Gabriel Lee](https://gabrielleeyj.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 💻 Software Developer at [Software Risk](https://software.com/).
+- 💻 Full Stack Engineer at [Bitsmedia](https://bitsmedia.com/).
 - 🇸🇬 Living in Singapore.
 - 📫 You can reach me at : hello@gabrielleeyj.com
 
