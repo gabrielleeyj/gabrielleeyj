@@ -1,5 +1,5 @@
 ### Hi there I am [Gabriel Lee](https://gabrielleeyj.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 💻 Full Stack Engineer at [Transcelestial](https://transcelestial.com/).
+- 💻 Software Engineer at [Transcelestial](https://transcelestial.com/).
 - 🇸🇬 Living in Singapore.
 - 📫 You can reach me at : hello@gabrielleeyj.com
 
@@ -8,11 +8,14 @@
 ### I build with...
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-neovim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Goland-informational?style=flat&logo=goland&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=clion&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-BoltDB-informational?style=flat&logo=boltdb&logoColor=white&color=2bbc8a)
