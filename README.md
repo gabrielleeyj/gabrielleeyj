@@ -2,7 +2,7 @@
 - 💻 Software Engineer at [Transcelestial](https://transcelestial.com/).
 - 🇸🇬 Living in Singapore.
 - 📫 You can reach me at : hello@gabrielleeyj.com
-
+- 👾 CodeStats: [melchsee](https://codestats.net/users/melchsee)
 ---
 
 ### I build with...
