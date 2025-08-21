@@ -1,5 +1,5 @@
 ### Hi there I am [Gabriel Lee](https://gabrielleeyj.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 💻 Software Engineer at [DT One](https://www.dtone.com/).
+- 💻 Senior Software Engineer at [DT One](https://www.dtone.com/).
 - 🇸🇬 Living in Singapore.
 - 📫 You can reach me at : hello@gabrielleeyj.com
 - 👾 CodeStats: [melchsee](https://codestats.net/users/melchsee)
